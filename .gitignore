@@ -1,0 +1,18 @@
+# Compilados C++
+*.o
+*.out
+*.exe
+a.out
+triage
+
+# Build
+build/
+bin/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+EOF < /dev/null
