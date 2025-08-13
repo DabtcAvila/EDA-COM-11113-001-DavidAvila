@@ -26,4 +26,3 @@ run: $(TARGET)
 	./$(TARGET)
 
 .PHONY: all clean run
-EOF < /dev/null
