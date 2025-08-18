@@ -6,7 +6,7 @@ Esta carpeta contendrá las prácticas implementadas en Java.
 
 ### Requisitos
 - **JDK**: Java 11 o superior
-- **Build Tool**: Maven o Gradle (opcional)
+- **Build Tool**: Maven o Gradle (opcional) para este curso nunca usaremos maven por default a menos que lo especifique. 
 - **IDE Recomendado**: IntelliJ IDEA o Eclipse
 
 ### Compilación General
