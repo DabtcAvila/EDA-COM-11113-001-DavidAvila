@@ -1,6 +1,6 @@
 # My Java Project
 
-This is a simple Java project that demonstrates how to set up a Java application using Maven. Hello world.
+This is a simple Java project that demonstrates how to set up a Java application using Maven.
 
 ## Project Structure
 
