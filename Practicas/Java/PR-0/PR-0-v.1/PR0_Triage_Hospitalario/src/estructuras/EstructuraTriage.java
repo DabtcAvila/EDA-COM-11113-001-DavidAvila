@@ -67,6 +67,14 @@ public interface EstructuraTriage {
     void limpiar();
     
     /**
+     * Retorna el nombre identificador de esta estructura de datos
+     * Útil para comparaciones y reportes de rendimiento
+     * 
+     * @return Nombre de la estructura (ej: "Heap Binario", "Lista Ligada Ordenada")
+     */
+    String getNombre();
+    
+    /**
      * Retorna una representación en cadena de la estructura
      * Útil para debugging y visualización
      * 
